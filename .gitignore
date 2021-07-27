@@ -1,7 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,python,pycharm,flask
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,pycharm,flask
-
+new.txt
 ### Flask ###
 instance/*
 !instance/.gitignore
